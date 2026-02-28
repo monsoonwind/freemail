@@ -1,4 +1,4 @@
-name = "mailfree"
+name = "freemail"
 # name = "mail-exhibit"
 main = "src/server.js"
 compatibility_date = "2024-01-01"
@@ -7,7 +7,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "TEMP_MAIL_DB"
 database_name = "maill_free_db" #你的d1数据库名称
-database_id = "c82663ac-62b6-4ba6-be81-cbe297f2a3dd" # 你的database_id
+database_id = "125bba47-c119-4ce8-bfd6-d8c28d2c6b6d" # 你的database_id
 # 登录会话过期时间（单位：天，默认7天）
 # 环境变量
 [vars]
